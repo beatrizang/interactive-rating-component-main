@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://t.ly/jR7
+- Solution URL: https://www.frontendmentor.io/solutions/solution-interactive-rating-component-sVIkL20uP5
 - Live Site URL: https://beatrizang.github.io/interactive-rating-component-main/
 
 ### Built with
