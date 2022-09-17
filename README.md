@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://t.ly/jR7_
+- Live Site URL: https://beatrizang.github.io/interactive-rating-component-main/
 
 ### Built with
 
